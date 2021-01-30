@@ -2,9 +2,13 @@
 
 This is a simple project that Greets you.
 
-The program is developed using Pack and Grid.
+The 2 programs are developed. One using Pack and the other using Grid.
 
 # Lets See How The Program Responds 
+
+The quit button ends the program 
+
+The Greet button  - greets.
 
 # For Null Input 
 <p> For Null Input, the program prints "Hello, World!" </p>
