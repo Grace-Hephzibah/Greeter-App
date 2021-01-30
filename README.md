@@ -19,7 +19,7 @@ The Greet button  - greets.
 <img src = "https://github.com/Grace-Hephzibah/Greeter-App/blob/main/Photos/Input.png">
 
 # Clarity Improvement 
-<p> Here a try and except statement to improve clarity in Windows </p>
+<p> Here is a try and except statement to improve the clarity in Windows </p>
 
 <p>
   try: <br>
